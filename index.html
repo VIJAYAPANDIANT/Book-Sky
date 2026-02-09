@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book Sky</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header class="navbar">
+        <h1>Book Sky</h1>
+    </header>
+
+    <main class="container" id="container">
+        <!-- Books will be rendered here by JavaScript -->
+    </main>
+
+    <!-- Popup Overlay -->
+    <div class="popup-overlay" id="popup-overlay"></div>
+
+    <!-- Popup Box -->
+    <div class="popup-box" id="popup-box">
+        <h2>Add Book</h2>
+        <form id="add-book-form">
+            <input type="text" placeholder="Book Title" id="book-title-input" required>
+            <input type="text" placeholder="Book Author" id="book-author-input" required>
+            <textarea placeholder="Short Description" id="book-desc-input" rows="4"></textarea>
+            
+            <div class="popup-actions">
+                <button type="submit" id="add-book">ADD</button>
+                <button type="button" id="cancel-popup">CANCEL</button>
+            </div>
+        </form>
+    </div>
+
+    <button class="add-button" id="add-popup-button" aria-label="Add new book">+</button>
+
+    <script src="script.js"></script>
+</body>
+</html>
