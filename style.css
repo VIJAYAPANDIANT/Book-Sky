@@ -138,6 +138,7 @@ body {
   height: 100%;
   z-index: 10;
   display: none;
+  -webkit-backdrop-filter: blur(2px);
   backdrop-filter: blur(2px);
 }
 
