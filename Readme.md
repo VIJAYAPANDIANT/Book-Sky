@@ -16,30 +16,30 @@ Welcome to **Book Sky**, a sleek and intuitive web application designed to help 
 
 ## ✨ Key Features
 
--   **🚀 Effortless Cataloging**: Quickly add books with title, author, and description.
--   **📱 Fully Responsive**: Optimized for various screen sizes, from desktops to mobile devices.
--   **💾 Persistence & Speed**: Uses `localStorage` for instant data retrieval and offline-first persistence.
--   **🎨 Premium UI**: Glassmorphic overlays, smooth transitions, and elegant "Poppins" typography.
--   **⚡ Real-time Updates**: Interactive DOM manipulation ensures dynamic UI feedback.
+- **🚀 Effortless Cataloging**: Quickly add books with title, author, and description.
+- **📱 Fully Responsive**: Optimized for various screen sizes, from desktops to mobile devices.
+- **💾 Persistence & Speed**: Uses `localStorage` for instant data retrieval and offline-first persistence.
+- **🎨 Premium UI**: Glassmorphic overlays, smooth transitions, and elegant "Poppins" typography.
+- **⚡ Real-time Updates**: Interactive DOM manipulation ensures dynamic UI feedback.
 
 ---
 
 ## 🛠️ Technology Stack
 
-| Layer          | Technology Used                                                                 |
-| :------------- | :------------------------------------------------------------------------------ |
-| **Frontend**   | Semantic HTML5, CSS3 (Vanilla), JavaScript (ES6+)                               |
-| **Styling**    | Flexbox, CSS Grid, Custom Variables, Backdrop Filters for Glassmorphism         |
-| **Storage**    | Browser `localStorage` API                                                      |
-| **Typography** | Google Fonts           |
+| Layer          | Technology Used                                                         |
+| :------------- | :---------------------------------------------------------------------- |
+| **Frontend**   | Semantic HTML5, CSS3 (Vanilla), JavaScript (ES6+)                       |
+| **Styling**    | Flexbox, CSS Grid, Custom Variables, Backdrop Filters for Glassmorphism |
+| **Storage**    | Browser `localStorage` API                                              |
+| **Typography** | Google Fonts                                                            |
 
 ---
 
 ## 📂 Project Structure
 
--   [index.html](file:///c:/Book%20Sky/index.html): Main entry point and application structure.
--   [style.css](file:///c:/Book%20Sky/style.css): Styling, theme tokens, and responsive layout.
--   [script.js](file:///c:/Book%20Sky/script.js): Application logic, data persistence, and UI interactions.
+- [index.html](file:///c:/Book%20Sky/index.html): Main entry point and application structure.
+- [style.css](file:///c:/Book%20Sky/style.css): Styling, theme tokens, and responsive layout.
+- [script.js](file:///c:/Book%20Sky/script.js): Application logic, data persistence, and UI interactions.
 
 ---
 
@@ -56,13 +56,15 @@ No servers or complex installations are required! Simply follow these steps:
 ## 📖 Usage Guide
 
 ### 1. Adding a Book
--   Click the vibrant **+** button at the bottom right.
--   Fill in the **Book Title**, **Author**, and a **Short Description** in the glassmorphic popup.
--   Click **ADD** to save your book to the library.
+
+- Click the vibrant **+** button at the bottom right.
+- Fill in the **Book Title**, **Author**, and a **Short Description** in the glassmorphic popup.
+- Click **ADD** to save your book to the library.
 
 ### 2. Deleting a Book
--   Locate the book card you wish to remove.
--   Click the red **Delete** button to instantly remove it from your collection.
+
+- Locate the book card you wish to remove.
+- Click the red **Delete** button to instantly remove it from your collection.
 
 ---
 
@@ -79,7 +81,7 @@ No servers or complex installations are required! Simply follow these steps:
 ## 👨‍💻 Author
 
 **VIJAYAPANDIANT.T.**
-*Design and Implementation*
+_Design and Implementation_
 
 ---
 
