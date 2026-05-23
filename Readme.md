@@ -80,7 +80,7 @@ No servers or complex installations are required! Simply follow these steps:
 
 ## 👨‍💻 Author
 
-**VIJAYAPANDIANT.T.**
+**Vijayapandian.T**
 _Design and Implementation_
 
 ---
